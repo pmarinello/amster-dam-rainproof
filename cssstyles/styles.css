@@ -626,7 +626,7 @@ footer nav ul li:nth-child(2) img:hover {
 /* wat is amster(dam) pagina */
 
 .wat-is-pagina {
-    background-image: url('media/fotos/lucht-met-wolken-met-blur.jpg');
+    background-image: url('../media/fotos/lucht-met-wolken-met-blur.jpg');
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
